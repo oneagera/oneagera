@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mark Munene N @oneagera
+- 👋 Hi, I’m Mark Ndaru. Native android developer: Kotlin, Jetpack Compose.
 - 👀 I’m interested in learning new advancements in android development as well as creating and maintaining my own codebase
 - 🌱 I’m currently learning Kotlin with Jetpack Compose and Kotlin Multi-platform
 - 💞️ I’m looking to collaborate on bigger android projects with devs from all over the globe
